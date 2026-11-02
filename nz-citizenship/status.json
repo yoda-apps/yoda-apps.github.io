@@ -1,5 +1,10 @@
 {
   "official_questions_published": false,
   "official_title": "Official questions are out",
-  "official_body": "The official citizenship test questions have been published. Open the app to see what's new."
+  "official_body": "The official citizenship test questions have been published. Open the app to see what's new.",
+  "announcement": {
+    "id": "test-push-3",
+    "title": "TEST status",
+    "body": "This alert should not appear."
+  }
 }
